@@ -1,7 +1,7 @@
 [![MasterHead](https://bit.ly/3J3b7W9)](https://github.com/shinigami9450/shinigami9450)
 
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://bit.ly/3Hr719b">
 
